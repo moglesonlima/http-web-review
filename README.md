@@ -1,5 +1,5 @@
 # HTTP - Entendendo a Web por debaixo dos panos.
-Para acompanhamento do curso, será utilizado um projeto(Back e Front) para realização de algumas práticas, visando um melhor entendimento do protocolo.
+Para acompanhamento do curso, será utilizado um projeto(Back e Front) para realização de algumas práticas, visando um melhor entendimento do protocolo. Neste repósitório será armazenado os projetos ultilizados em suas versões finais, onde no codigo referente a API Rest ficaram comentadas as alterações realizadas.
 
 ### Bixando e inicializando o projeto:
 + Baixando backend

@@ -413,6 +413,11 @@
         }
       ],
       "sobre": "Desenvolvido e mantido pela Microsoft, o TypeScript é um pré-processador open source de códigos JavaScript que auxilia na escrita de códigos, desde os mais simples até os mais complexos, utilizando tipagem de dados e os princípios da Orientação a Objetos para o desenvolvimento de aplicações front-end, back-end e mobile."
+    },
+    {
+      "email": "moglesonlima@gmail.com",
+      "senha": "123456",
+      "id": 11
     }
   ],
   "autores": [
@@ -465,6 +470,11 @@
       "id": 10,
       "nome": "Thiago da Silva Adriano",
       "sobre": "Thiago da Silva Adriano é Microsoft (MVP) e atualmente trabalha como Engenheiro de Software. Nesses últimos anos, focou nas tecnologias criadas pela Microsoft, mas sempre esteve antenado para as novas tecnologias que estão surgindo no mercado. Em um breve resumo, é uma pessoa apaixonada pelo que faz, tem a sua profissão como hobby."
+    },
+    {
+      "id": 1000,
+      "nome": "Teste Autor",
+      "sobre": "Teste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste AutorTeste Autor."
     }
   ],
   "categorias": [
